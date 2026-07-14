@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 我的个人博客</title>
+    <link>https://9917338.github.io/posts/</link>
+    <description>Recent content in Posts on 我的个人博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <atom:link href="https://9917338.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://9917338.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://9917338.github.io/posts/my-first-post/</guid>
+      <description>&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;title: &amp;ldquo;我的第一篇博客&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;date: 2026-07-14&lt;/p&gt;
+&lt;p&gt;draft: false&lt;/p&gt;
+&lt;p&gt;-&amp;ndash;&lt;/p&gt;
+&lt;p&gt;# 大家好！👋&lt;/p&gt;
+&lt;p&gt;我是 **杨佳若**，这是我的 Hugo 个人博客。&lt;/p&gt;
+&lt;p&gt;## 关于我&lt;/p&gt;
+&lt;p&gt;- 🎓 在校学生&lt;/p&gt;
+&lt;p&gt;- 💻 学习开源软件开发技术&lt;/p&gt;
+&lt;p&gt;- 📝 正在部署我的第一个个人博客&lt;/p&gt;
+&lt;p&gt;## 今天的目标&lt;/p&gt;
+&lt;p&gt;成功搭建 Hugo 博客并上线！&lt;/p&gt;
+&lt;p&gt;欢迎访问我的博客～&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
